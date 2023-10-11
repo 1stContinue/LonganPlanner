@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">plannerApp</string>
+<string name="facebook_app_id">629653302319634</string>
+<string name="fb_login_protocol_scheme">fb1de1e7a845dc21c3823347fa7e04e7fe</string>
+<string name="facebook_client_token">a1160bf18110b0904ac16d6228c3df36</string>
+</resources>
